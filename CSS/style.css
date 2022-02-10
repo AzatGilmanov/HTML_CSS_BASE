@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    background: url("../IMG/1.png") no-repeat;
+}
+.card {
+    height: auto;
+    width: 350px;
+    margin: 30px auto;
+    background-color: #ffe;
+    box-shadow: 50px 50px 80px rgb(82, 96, 143);
+    border-radius: 25px;
+    padding: 20px;
+}
+.photo {
+    display: block;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+.card-title {
+    text-align: center;
+    font-size:  20px;
+    color: blue;
+}
+.card-subtitle {
+    text-align: center;
+    font-size: 18px;
+    color:rgb(51, 51, 9)
+    
+}
+.card-list {
+    padding-left: 5%; 
+    list-style-position: inside;
+    font-size: 18px;
+}
+.text-position {
+    padding-left: 5%;
+}
